@@ -47,5 +47,26 @@ public class Client extends Utilisateur{
     String getNom() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
+    public void ConsulterSonCompte(String NomClient,String PrenomClient){
+        System.out.println("compte");
     
+    }
+    public String CreerUnCompte(String NomClient, String prenom Client){
+        return ();
+    
+    }
+    public String MAJ () {
+    }
+    public String inscriptionCour (){
+    }
+    public Void ConsulterCoursFutur(){
+    System.out.println(listecours);
+    }
+    public void ConsulterCoursPasse(){
+    }
+    public String DesinscrireCours(){
+    }
+    
+    public  Stirng ConsulterListeActivite(){
+    }
 }
