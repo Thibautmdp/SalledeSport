@@ -54,10 +54,44 @@ public class Salle {
         return null;
     }
     
-    public String Afficher(){
-        a
+    public String Affichages(){
+        return null;
     }
-
+    public String MJ_du_mdp(){
+        
+    }
+    
+    //Méthode client
+    
+    public String Creer_Compte(){
+        
+    }
+    public String Consulter_Compte(){
+        
+    }
+    public String MJ_Compte(){
+        
+    }
+    public String Consulter_Cours(){
+        
+    }
+    public String Inscrire_Cours(){
+        
+    }
+    public String Consulter_SES_Cours_futur(){
+        
+    }
+    public String Consulter_SES_Cours_passes(){
+        
+    }
+    public String Déinscrire(){
+        
+    }
+    public String Consulter_liste_activité(){
+        
+    }
+    
+    //
 }
 
 
