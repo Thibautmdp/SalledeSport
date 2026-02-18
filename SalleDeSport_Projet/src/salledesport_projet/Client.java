@@ -10,6 +10,28 @@ package salledesport_projet;
  */
 public class Client extends Utilisateur{
     
+    private String NumClient;
+    private String NomClient;
+    private String PrenomClient;
+    private String TelClient;
+    private String AdresseClient;
+    private String Abonnement; 
+    private String EtatAbonnement;
+    private String ListeCourPasse;
+    private String ListeCourfuture;
+    
+    
+    
+    public Client (String NumClient){
+    this.NumClient=NumClient;
+    this.NomClient=NomClient;
+    this.PrenomClient=PrenomClient;
+    this.TelClient=TelClient;
+    this.TelClient=TelClient;
+    this.AdresseClient=AdresseClient;
+    this.Abonnement=Abonnement;
+    
+    }
     public Client(String email, String mdp) {
         super(email, mdp);
     }
