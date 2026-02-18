@@ -91,7 +91,14 @@ public class Salle {
         
     }
     
-    //
+    // Méthode Admin
+    
+    public String Consulter_Compte_client(){
+        
+    }
+    public String Recherche_Client(){
+        
+    }
 }
 
 
